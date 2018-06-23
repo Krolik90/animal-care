@@ -1,0 +1,22 @@
+{
+    "1": {
+        "name" : "Adam",
+        "type" : "owner",
+        "owner of" : 1,
+        "age" : 37,
+        "last active" : "3 mins ago"
+    },
+    "2": {
+        "name" : "Kreska",
+        "animal" : "cat",
+        "race": "unknown",
+        "age" : 4,
+        "last active" : "7 mins ago"
+    },
+    "3": {
+        "name" : "Maggie",
+        "animal" : "fish",
+        "race": "jelly fish",
+        "age" : 1
+    }
+}

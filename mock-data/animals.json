@@ -1,0 +1,20 @@
+{
+    "1" : {
+        "name" : "Pimpek",
+        "animal" : "dog",
+        "race" : "german dog",
+        "age" : 3
+    },
+    "2": {
+        "name" : "Kreska",
+        "animal" : "cat",
+        "race": "unknown",
+        "age" : 4
+    },
+    "3": {
+        "name" : "Maggie",
+        "animal" : "fish",
+        "race": "jelly fish",
+        "age" : 1
+    }
+}
